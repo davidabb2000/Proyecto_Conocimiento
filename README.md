@@ -1,6 +1,16 @@
 # Proyecto de Conocimiento — Inventario Machine Shop
 ## Anduril Industries · SENA Formación 3406211
 
+
+---
+
+## VIDEO
+
+https://www.youtube.com/watch?v=SxSkGSUi0aA
+
+---
+
+
 ---
 
 ## ¿Qué es este proyecto?
